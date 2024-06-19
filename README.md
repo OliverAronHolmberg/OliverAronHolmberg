@@ -1,9 +1,9 @@
 Hi 👋 My name is Oliver Holmberg
 ================================
 
-I code in Python and a bit of C#, also i'm currently learning HTML, CSS and Java
+I code in Python3 and a bit of C#, also i'm currently learning HTML, CSS and Java
 
-* 🧠  I'm learning Python, C#, HTML, CSS, Java
+* 🧠  I'm learning Python3, C#, HTML, CSS, Java
 
 ### Skills
 
