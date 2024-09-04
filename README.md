@@ -1,9 +1,8 @@
 Hi 👋 My name is Oliver Holmberg
 ================================
 
-I code in Python and a bit of C#, also i'm currently learning HTML, CSS and Java
+I code in Python, C#, HTML, CSS and JS
 
-* 🧠  I'm learning Python, C#, HTML, CSS, Java and JavaScript
 * Currently Making a python based game called Still Bot
 
 ### Skills
