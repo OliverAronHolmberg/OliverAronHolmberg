@@ -3,7 +3,7 @@ Hi 👋 My name is Oliver Holmberg
 
 I code in Python, C#, HTML, CSS and JS
 
-* Currently Making a python based game called Still Bot
+* Currently learning hot to make minecraft modsin Java 16
 
 ### Skills
 <p align="left">
