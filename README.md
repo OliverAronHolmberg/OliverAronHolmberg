@@ -3,7 +3,7 @@ Hi 👋 My name is Oliver Holmberg
 
 I code in Python, C#, HTML, CSS and JS
 
-* Currently learning hot to make minecraft modsin Java 16
+
 
 ### Skills
 <p align="left">
