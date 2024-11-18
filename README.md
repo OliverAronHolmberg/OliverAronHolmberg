@@ -1,7 +1,7 @@
-Hi 👋 My name is Oliver Holmberg
+Hi 
 ================================
 
-I code in Python, C#, HTML, CSS and JS
+Python, C#, HTML, CSS and JS
 
 
 
