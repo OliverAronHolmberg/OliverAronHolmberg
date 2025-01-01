@@ -1,8 +1,9 @@
 
 ================================
 
-Python, C#, HTML, CSS and JS
+Python, C#, HTML, CSS, Java and JS
 
+Main languages: Java and Python
 
 
 ### Skills
