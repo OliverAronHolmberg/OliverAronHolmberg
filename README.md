@@ -1,6 +1,3 @@
-
-================================
-
 Python, C#, HTML, CSS, Java and JS
 
 Main languages: Java and Python
