@@ -31,7 +31,7 @@
 ## Game Engine / Framework  
 <p align="left">
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="36" height="36" alt="Unreal Engine 5" />
 </a>
 </p>
 
