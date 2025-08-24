@@ -1,7 +1,7 @@
 <h1 align="left" style="font-size:36px;">Skills 🌟</h1>
 
 
-## Programming Languages  
+<h2>Programming Languages</h2>
 
 <p>- Python <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python" />
@@ -21,7 +21,7 @@
 
 ---
 
-## Markup Languages  
+<h2>Markup Languages</h2>
 
 <p>- HTML <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5" />
@@ -29,7 +29,7 @@
 
 ---
 
-## Style Languages  
+<h2>Style Languages</h2>
 
 <p>- CSS <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3" />
