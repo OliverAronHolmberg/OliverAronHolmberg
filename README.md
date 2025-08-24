@@ -1,4 +1,5 @@
-## 🌟 Skills
+<h1 align="left" style="font-size:36px;">Skills 🌟</h1>
+
 
 ## Programming Languages  
 
