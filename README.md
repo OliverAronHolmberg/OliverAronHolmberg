@@ -11,8 +11,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" />
 </a></p>
 
-<p><a>C++
-<img width="1920" height="2161" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" />
+<p>- C++ <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" width="20" height="20" alt="C++" />
 </a></p>
 
 
