@@ -12,7 +12,7 @@
 </a></p>
 
 <p>- C++ <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" width="20" height="20" alt="C++" />
+  <img src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" width="20" height="20" alt="C++"/>
 </a></p>
 
 
