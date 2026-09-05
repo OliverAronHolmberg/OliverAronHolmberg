@@ -11,8 +11,38 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" />
 </a></p>
 
-<p>- C++ <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<p>- C++ <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" width="20" height="20" alt="C++"/>
+</a></p>
+
+
+
+
+<h2>Game Development & Graphics Libraries</h2>
+
+<p>- OpenGL <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opengl-colored.svg" width="20" height="20" alt="OpenGL" />
+</a></p>
+
+<p>- raylib <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.raylib.com/common/img/raylib_logo.png" width="20" height="20" alt="raylib" />
+</a></p>
+
+<p>- Pygame <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="20" height="20" alt="Pygame" />
+</a></p>
+
+
+
+
+<h2>Graphics & Design Tools</h2>
+
+<p>- Blender <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="20" height="20" alt="Blender" />
+</a></p>
+
+<p>- Affinity Photo 2 / Photoshop <a href="https://affinity.serif.com/en-us/photo/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" />
 </a></p>
 
 
@@ -31,13 +61,3 @@
 <p>- CSS <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3" />
 </a></p>
-
-
-
-<h2>Game Engine / Framework</h2>
-
-<p>- Unreal Engine 5 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/win10/512/FFFFFF/unreal-engine.png" width="20" height="20" alt="Unreal Engine 5" />
-</a></p>
-
-
