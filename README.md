@@ -21,7 +21,7 @@
 <h2>Game Development & Graphics Libraries</h2>
 
 <p>- OpenGL <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/OpenGL_logo.svg" width="20" height="20" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/OpenGL-555555?style=flat&logo=opengl&logoColor=white" height="20" alt="OpenGL" />
 </a></p>
 
 <p>- raylib <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
