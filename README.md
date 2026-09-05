@@ -2,7 +2,7 @@
 
 <p align="left">
   I'm a passionate software developer with a strong focus on <b>Game Development, Graphics Programming, and Creative Design</b>. 
-  I bridge the gap between low-level performance code and visual aesthetics—building interactive engines with <b>C++ and OpenGL</b>, 
+  I bridge the gap between low-level performance code, visual aesthetics and building interactive engines with <b>C++ and OpenGL</b>, 
   scripting lightweight projects with <b>Python</b>, and crafting 2D/3D assets in <b>Blender and Figma</b>.
 </p>
 
