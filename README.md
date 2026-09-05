@@ -1,3 +1,18 @@
+<h1 align="left">Hi there! I'm Oliver Holmberg</h1>
+
+<p align="left">
+  I'm a passionate software developer with a strong focus on <b>Game Development, Graphics Programming, and Creative Design</b>. 
+  I bridge the gap between low-level performance code and visual aesthetics—building interactive engines with <b>C++ and OpenGL</b>, 
+  scripting lightweight projects with <b>Python</b>, and crafting 2D/3D assets in <b>Blender and Figma</b>.
+</p>
+
+<p align="left">
+  <b>Currently focusing on:</b> Graphics rendering, game mechanics, and UI/UX design<br>
+  <b>Creative Interests:</b> 3D modeling, raster design, and low-level game loops
+</p>
+
+<hr />
+
 <h2 align="left">Tech Stack & Tools 🛠️</h2>
 
 <p align="left">
