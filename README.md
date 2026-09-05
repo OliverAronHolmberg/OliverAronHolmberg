@@ -1,67 +1,25 @@
-<h1 align="left" style="font-size:36px;">Skills 🌟</h1>
+<h2 align="left">Tech Stack & Tools 🛠️</h2>
 
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<h2>Programming Languages</h2>
+<p align="left">
+  <!-- Graphics & Game Dev -->
+  <img src="https://img.shields.io/badge/OpenGL-555555?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=c&logoColor=white" alt="raylib" />
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+</p>
 
-<p>- Python <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python" />
-</a></p>
-
-<p>- Java <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" />
-</a></p>
-
-<p>- C++ <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/2c2d7499-56df-4296-87f2-e13915aa742f" width="20" height="20" alt="C++"/>
-</a></p>
-
-
-
-
-<h2>Game Development & Graphics Libraries</h2>
-
-<p>- OpenGL <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/OpenGL-555555?style=flat&logo=opengl&logoColor=white" height="20" alt="OpenGL" />
-</a></p>
-
-<p>- raylib <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.raylib.com/common/img/raylib_logo.png" width="20" height="20" alt="raylib" />
-</a></p>
-
-<p>- Pygame <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="20" height="20" alt="Pygame" />
-</a></p>
-
-
-
-
-<h2>Graphics & Design Tools</h2>
-
-<p>- Blender <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="20" height="20" alt="Blender" />
-</a></p>
-
-<p>- Affinity Photo 2 / Photoshop <a href="https://affinity.serif.com/en-us/photo/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" />
-</a></p>
-
-<p>- Figma <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="20" height="20" alt="Figma" />
-</a></p>
-
-
-
-
-<h2>Markup Languages</h2>
-
-<p>- HTML <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5" />
-</a></p>
-
-
-
-<h2>Style Languages</h2>
-
-<p>- CSS <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3" />
-</a></p>
+<p align="left">
+  <!-- Design & Creative Tools -->
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Affinity_Photo_2-005B94?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
+</p>
